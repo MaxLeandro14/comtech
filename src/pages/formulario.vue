@@ -14,7 +14,7 @@
                         <q-input filled v-model="text3" label="Descrição" :dense="dense" ></q-input>
                         <div>
                             <div>
-                                <span class="title-sin">Origin:</span>
+                                <span class="title-sin">Origem:</span>
                                 <div class="disciplina">Mecânica</div>
                             </div>
                             <div class="sinalizar">
